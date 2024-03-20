@@ -1,1 +1,1 @@
-Mi primer challenge en alura reazlizando un encriptador
+Mi primer challenge en alura realizando un encriptador
